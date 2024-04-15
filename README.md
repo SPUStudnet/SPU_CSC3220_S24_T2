@@ -2,5 +2,5 @@
 SPU Applications development\
 \
 Spring 2024 Project, Team 2.\
-Kyler Veenstra - SPUStudnet - ID# 155692979\
+Kyler Veenstra - SPUStudnet - Github ID# 155692979\
 Andy Gaspar - itzlesho
