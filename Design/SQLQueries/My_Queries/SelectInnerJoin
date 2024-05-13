@@ -1,0 +1,6 @@
+SELECT Dish.Name, Meal.Description
+FROM Meal 
+INNER JOIN Meal_Dish_Lookup ON Meal.MealId=Meal_Dish_Lookup.MealId 
+INNER JOIN Dish ON Meal_Dish_Lookup.DishId=Dish.DishId
+INNER JOIN Dish_Tags_Lookup ON Dish.DishId=Dish_Tags_Lookup.DishId
+INNER JOIN Tags ON Dish_Tags_Lookup.TagId=Tags.TagId
