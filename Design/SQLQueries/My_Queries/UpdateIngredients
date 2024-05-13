@@ -1,0 +1,5 @@
+-- Update all ingredients to have the same calorie count and measurement.
+
+UPDATE Ingredients
+   SET CaloriesPerMeasurement = 500,
+       MeasurementId = 1;
