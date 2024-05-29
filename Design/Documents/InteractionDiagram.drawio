@@ -1,0 +1,45 @@
+<mxfile host="Electron" modified="2024-05-29T03:56:43.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="7FGdYi-5mmKeTda9A8Vy" version="24.4.8" type="device">
+  <diagram name="Page-1" id="APHTnaRsYDHRcKdXppEu">
+    <mxGraphModel dx="780" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TgmtA5AjOMu-i71r19Ey-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="TgmtA5AjOMu-i71r19Ey-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgmtA5AjOMu-i71r19Ey-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TgmtA5AjOMu-i71r19Ey-1" target="TgmtA5AjOMu-i71r19Ey-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgmtA5AjOMu-i71r19Ey-7" value="Click on hamburger menu" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgmtA5AjOMu-i71r19Ey-3">
+          <mxGeometry x="-0.0394" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgmtA5AjOMu-i71r19Ey-4" value="--" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="TgmtA5AjOMu-i71r19Ey-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="540" y="550" as="targetPoint" />
+            <mxPoint x="610" y="530" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgmtA5AjOMu-i71r19Ey-9" value="Click on Add data button" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="TgmtA5AjOMu-i71r19Ey-4">
+          <mxGeometry x="-0.233" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TgmtA5AjOMu-i71r19Ey-1" value="&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;&amp;lt;Hamburger menu&amp;gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;«Window»&lt;div&gt;Home screen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«Graph»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Caloric intake over the last 7 days.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;View Summary&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Other graphs&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Add data&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="470" y="170" width="220" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="TgmtA5AjOMu-i71r19Ey-6" value="«Sidebar»&lt;br&gt;&lt;div&gt;Hamburger menu&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="140" y="210" width="110" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="TgmtA5AjOMu-i71r19Ey-8" value="«Window»&lt;div&gt;Add information&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«»&lt;br&gt;&lt;/div&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="570" width="110" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
