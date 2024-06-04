@@ -1,6 +1,6 @@
-<mxfile host="Electron" modified="2024-05-29T20:23:16.832Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.8 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="f2PHQ0VF2fpH-UlI4MZq" version="24.4.8" type="device">
+<mxfile host="Electron" modified="2024-06-04T06:44:42.636Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.13 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="6SZIei0AZqnqy56sZnv3" version="24.4.13" type="device">
   <diagram name="Page-1" id="APHTnaRsYDHRcKdXppEu">
-    <mxGraphModel dx="3021" dy="2422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2999" dy="2446" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -60,9 +60,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-24" value="&lt;b&gt;Question about home screen: Should I only have one button for quick add or a set amount like 5?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="315" y="50" width="580" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="J21b_Lvd1EbS78n08SfB-25" value="&lt;div&gt;«Window»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Adding Dishes to meal&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;«button»&lt;div&gt;Food item&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;/div&gt;&lt;div&gt;Dishes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;/div&gt;&lt;div&gt;Finished&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;div&gt;&amp;lt;button&amp;gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;Magnifying Glass icon&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
           <mxGeometry x="215" y="500" width="120" height="280" as="geometry" />
         </mxCell>
@@ -76,9 +73,6 @@
           <mxGeometry x="0.2411" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-28" value="&lt;b&gt;Question: What is the difference between window and form?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-315" y="665" width="370" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J21b_Lvd1EbS78n08SfB-30" value="«PopUp»&lt;div&gt;Searching for dishes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«Button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«Button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Tag&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«Button»&lt;/div&gt;&lt;div&gt;Most Recent&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«Button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Favorites&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="60" y="780" width="90" height="220" as="geometry" />
@@ -153,9 +147,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-47" value="&lt;b&gt;Does this go back to home page or???&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="605" y="1140" width="240" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="J21b_Lvd1EbS78n08SfB-48" value="«window»&lt;div&gt;Add dish&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«input»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dish name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«input»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Dish name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«input»&lt;/div&gt;&lt;div&gt;Dish name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«Drop down»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Advanced&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Back&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Finished!&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="740" y="480" width="150" height="390" as="geometry" />
         </mxCell>
@@ -190,9 +181,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-58" value="&lt;b&gt;Maybe in the Add dish advanced&lt;/b&gt;&lt;div&gt;&lt;b&gt;page we can add two choices as&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;shown here in this &amp;lt;- page.&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1205" y="620" width="210" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="J21b_Lvd1EbS78n08SfB-60" value="«input»&lt;div&gt;search bar&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;ingredient item&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1400" y="750" width="120" height="300" as="geometry" />
         </mxCell>
@@ -207,9 +195,6 @@
         <mxCell id="J21b_Lvd1EbS78n08SfB-63" value="&lt;div&gt;«window»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Add ingredient to Database&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;«input»&lt;div&gt;item name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«input»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Calories&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Back&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«Add!»&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1155" y="1030" width="120" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-65" value="&lt;b&gt;Problem here:&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;What happens when&amp;nbsp; the ingredients&amp;nbsp;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;the user is looking for can&#39;t be found, dont think they&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;wann add that ingredient and then go back and add that to their meal&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1295" y="1080" width="420" height="90" as="geometry" />
-        </mxCell>
         <mxCell id="J21b_Lvd1EbS78n08SfB-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.558;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J21b_Lvd1EbS78n08SfB-53" target="J21b_Lvd1EbS78n08SfB-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -218,9 +203,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-68" value="&lt;b&gt;Problem: If i clicked go back what page would that take me to?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1290" y="1238" width="380" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="J21b_Lvd1EbS78n08SfB-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.017;entryY=0.832;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="J21b_Lvd1EbS78n08SfB-60" target="J21b_Lvd1EbS78n08SfB-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -228,9 +210,6 @@
           <mxGeometry x="0.1362" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-71" value="&lt;b&gt;Could we maybe create a rule that based on what the previous page was that is what it will go back to?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="1215" y="1328" width="610" height="30" as="geometry" />
         </mxCell>
         <mxCell id="J21b_Lvd1EbS78n08SfB-72" value="&lt;div&gt;«window»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Add ingredient to Database&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;«input»&lt;div&gt;item name&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«input»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Calories&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Back&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;«Add!»&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1330" y="290" width="120" height="240" as="geometry" />
@@ -272,14 +251,11 @@
         <mxCell id="J21b_Lvd1EbS78n08SfB-82" value="&lt;b&gt;Where would we go once we pressed finished?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="680" y="-110" width="290" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-83" value="&lt;div&gt;«window»&lt;br&gt;&lt;/div&gt;&lt;div&gt;View Data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«graph»&lt;br&gt;&lt;/div&gt;&lt;div&gt;data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«report»&lt;br&gt;&lt;/div&gt;&lt;div&gt;daily calorie average,&lt;/div&gt;&lt;div&gt;most consumed meal,&lt;/div&gt;&lt;div&gt;most unhealthy.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="J21b_Lvd1EbS78n08SfB-83" value="&lt;div&gt;«window»&lt;br&gt;&lt;/div&gt;&lt;div&gt;View Data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«graph»&lt;br&gt;&lt;/div&gt;&lt;div&gt;data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«report»&lt;br&gt;&lt;/div&gt;&lt;div&gt;daily calorie average,&lt;/div&gt;&lt;div&gt;most consumed meal,&lt;/div&gt;&lt;div&gt;meal with the most calories&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-210" y="310" width="120" height="190" as="geometry" />
         </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-84" value="&lt;b&gt;How would I categorize unhealthy?&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-435" y="390" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="J21b_Lvd1EbS78n08SfB-87" value="&lt;div&gt;«window»&lt;br&gt;&lt;/div&gt;&lt;div&gt;settings&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«checkbox»&lt;br&gt;&lt;/div&gt;&lt;div&gt;dark mode&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«dropdown»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Keep data for n weeks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«radio button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;standard time or military time&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;export data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="-110" width="120" height="300" as="geometry" />
+        <mxCell id="J21b_Lvd1EbS78n08SfB-87" value="&lt;div&gt;«window»&lt;br&gt;&lt;/div&gt;&lt;div&gt;settings&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«checkbox»&lt;br&gt;&lt;/div&gt;&lt;div&gt;dark mode&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«dropdown»&lt;br&gt;&lt;/div&gt;&lt;div&gt;Keep data for a specified number weeks&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«radio button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;standard time or military time&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div&gt;«button»&lt;br&gt;&lt;/div&gt;&lt;div&gt;export data&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-245" width="230" height="240" as="geometry" />
         </mxCell>
         <mxCell id="J21b_Lvd1EbS78n08SfB-88" value="" style="edgeStyle=orthogonalEdgeStyle;endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="J21b_Lvd1EbS78n08SfB-20" target="J21b_Lvd1EbS78n08SfB-87" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
